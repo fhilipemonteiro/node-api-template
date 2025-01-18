@@ -19,11 +19,11 @@
 # Instalação
 1. Clone o repositório do GitHub:
 ```
-git clone https://github.com/fhilipemonteiro/api-template-node.git
+git clone https://github.com/fhilipemonteiro/template-api-node.git
 ```
 2. Navegue para o diretório do projeto:
 ```
-cd api-template-node
+cd template-api-node
 ```
 3. Faça a instalação de todas as dependências do projeto:
 ```
